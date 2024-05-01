@@ -1,4 +1,4 @@
-***Multi-Layer Perceptron (MLP) Implementation***
+# ***Multi-Layer Perceptron (MLP) Implementation***
 
 **Overview:**
 This C++ code implements a Multi-Layer Perceptron (MLP) neural network. It consists of input, hidden, and output layers, with the ability to specify the number of hidden layers during runtime. The program utilizes multi-threading for concurrent computation within layers and inter-process communication (IPC) using named pipes for communication between layers.
