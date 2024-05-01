@@ -6,10 +6,8 @@ This C++ code implements a Multi-Layer Perceptron (MLP) neural network. It consi
 **Dependencies:**
 * C++11 compiler
 * POSIX compliant operating system (Linux/Unix)
-* Compile the code using any C++11 compliant compiler:
-      - g++ -o NN NN.cpp -lpthread
-* Run the compiled executable:
-      - ./NN
+* Compile the code using any C++11 compliant compiler:  (g++ -o NN NN.cpp -lpthread)
+* Run the compiled executable: (./NN)
 
 **Features:**
 - Input Layer: Takes input values and distributes them to the neurons in the layer.
